@@ -28,7 +28,11 @@
 
 ## Script Executed with Python in Visual Studio Code
 
-[MY PyPoll Script.txt](https://github.com/hheng9/Election_Analysis/files/10291259/MY.PyPoll.Script.txt)
+![Script1](https://user-images.githubusercontent.com/118647523/209250811-c8cfb53e-265b-4e34-896d-fa9cb2c67016.png)
+![Script2](https://user-images.githubusercontent.com/118647523/209250816-0f0a9233-59e1-45b2-82b3-e66f7788a904.png)
+![Script3](https://user-images.githubusercontent.com/118647523/209250823-024aef2d-de24-469e-93ca-e7eec1b581a5.png)
+![Script4](https://user-images.githubusercontent.com/118647523/209250828-5076dec7-4f16-4b40-b1ab-117fbb7071ef.png)
+
 
 
 
